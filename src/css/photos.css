@@ -1,0 +1,7 @@
+img {
+    max-width: 220px;
+    inline-size: -webkit-fill-available;
+    vertical-align: middle;
+    margin: 10px;
+}
+
